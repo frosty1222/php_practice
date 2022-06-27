@@ -1,0 +1,3 @@
+first you have to install vendor and phpmailer by the composer comand line 
+the comand line is " composer require phpmailer/phpmailer";
+paste this code on your command line
